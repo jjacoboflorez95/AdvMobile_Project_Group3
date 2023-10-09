@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661903853593",
+    "project_id": "shoestore-4394f",
+    "storage_bucket": "shoestore-4394f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661903853593:android:efa9e3c718cae203d84288",
+        "android_client_info": {
+          "package_name": "com.juanjacoboflorezmonroy.shoestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADbZq_ttLT7SAGzeJLhM-3RzTodfccJjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
